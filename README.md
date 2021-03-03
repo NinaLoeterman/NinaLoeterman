@@ -2,7 +2,7 @@
 <h4>
   Im Nina, a full stack developer in Tel Aviv. Find me on
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/nina-loeterman/"
+    href="https://www.linkedin.com/in/nina-loeterman/"
     target="blank"
     >LinkedIn</a
   >, or check out my articles on
