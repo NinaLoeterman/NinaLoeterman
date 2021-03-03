@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h4>
+<p>
   Im Nina, a full stack developer in Tel Aviv. Find me on
   <a
     href="https://www.linkedin.com/in/nina-loeterman/"
@@ -7,7 +7,7 @@
     >LinkedIn</a
   >, or check out my articles on
   <a href="https://medium.com/@nina-loeterman" target="blank">Medium</a>.
-</h4>
+</p>
 <h3 align="left">Technologies I work with:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
