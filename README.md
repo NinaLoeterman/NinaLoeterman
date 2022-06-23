@@ -8,3 +8,5 @@
   >, or check out my articles on
   <a href="https://medium.com/@nina-loeterman" target="blank">Medium</a>.
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninaloeterman&layout=compact"/>
